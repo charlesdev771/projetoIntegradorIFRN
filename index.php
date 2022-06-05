@@ -51,33 +51,33 @@
                             <ul class="navbar-nav">
         
                             <li class="nav-item">
-                                <a class="nav-link active" href="#home">
+                                <a class="menu_item" href="#home">
                                     Home
                                 </a>
                                 </li>
                             <li class="nav-item">
-                                <a class="nav-link active menu_item" href="public/about.html">
+                                <a class="menu_item active" href="public/about.php">
                                     Sobre
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active" href="#">
-                                    Menu3
+                                <a class="menu_item active" href="public/Prevention.php">
+                                    Prevenção
                                 </a>
                                 </li>
                                 <li class="nav-item">
-                                <a class="nav-link active" href="#">
-                                    Menu4
+                                <a class="menu_item active" href="public/Causes.php">
+                                    Causas
                                 </a>
                                 </li>
                                 <li class="nav-item">
-                                <a class="nav-link active" href="#">
-                                    Menu5
+                                <a class="menu_item active" href="public/Types.php">
+                                    Tipos
                                 </a>
                                 </li>
                                 <li class="nav-item">
-                                <a class="nav-link active" href="#">
-                                    Menu6
+                                <a class="menu_item active" href="public/Treatment.php">
+                                    Tratamento
                                 </a>
                                 </li>
         
@@ -125,7 +125,7 @@
         <div id="HOME" class="HOME">
             <div id="home" class="home">
                 <figure>
-                    <img src="static/imgs/home.jpg" alt="Wallpaper home">
+                    <img src="static/imgs/ansiedade.jpg" alt="Wallpaper home">
                 </figure>
             </div>
         </div>
@@ -145,19 +145,37 @@
 
                     <div class="col-sm-12 col-md-12">
                         <p class="text-center mt-5 pt-3">
-                            jnsxkodnskdskohaskjdhkj9haskhdkjashdchsajodhokjdhok
-                            çdjkasjdkjakdjkajdkajadkjakidjaikdjkiajdkajdkiajdkajd
-                            djakdk0ahkdjhakdkajdkiadkjksjdiosajdlkajkdosjaodjuaokdj
+                        is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever 
+                        since the 1500s, when an unknown printer took a galley of type 
+                        and scrambled it to make a type specimen book. It has survived 
+                        not only five centuries, but also the leap into electronic 
+                        typesetting, remaining essentially unchanged. It was popularised 
+                        in the 1960s with the release of Letraset sheets containing Lorem 
+                        Ipsum passages, and more recently with desktop publishing software 
+                        like Aldus PageMaker including versions of Lorem Ipsum.
                         </p>
                         <p class="text-center pt-3">
-                            jnsxkodnskdskohaskjdhkj9haskhdkjashdchsajodhokjdhok
-                            çdjkasjdkjakdjkajdkajadkjakidjaikdjkiajdkajdkiajdkajd
-                            djakdk0ahkdjhakdkajdkiadkjksjdiosajdlkajkdosjaodjuaokdj
+                        is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever 
+                        since the 1500s, when an unknown printer took a galley of type 
+                        and scrambled it to make a type specimen book. It has survived 
+                        not only five centuries, but also the leap into electronic 
+                        typesetting, remaining essentially unchanged. It was popularised 
+                        in the 1960s with the release of Letraset sheets containing Lorem 
+                        Ipsum passages, and more recently with desktop publishing software 
+                        like Aldus PageMaker including versions of Lorem Ipsum.
                         </p>
                         <p class="text-center pt-3">
-                            jnsxkodnskdskohaskjdhkj9haskhdkjashdchsajodhokjdhok
-                            çdjkasjdkjakdjkajdkajadkjakidjaikdjkiajdkajdkiajdkajd
-                            djakdk0ahkdjhakdkajdkiadkjksjdiosajdlkajkdosjaodjuaokdj
+                        is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever 
+                        since the 1500s, when an unknown printer took a galley of type 
+                        and scrambled it to make a type specimen book. It has survived 
+                        not only five centuries, but also the leap into electronic 
+                        typesetting, remaining essentially unchanged. It was popularised 
+                        in the 1960s with the release of Letraset sheets containing Lorem 
+                        Ipsum passages, and more recently with desktop publishing software 
+                        like Aldus PageMaker including versions of Lorem Ipsum.
                         </p>
                     </div>
 
@@ -192,71 +210,71 @@
 
     <!--beginning Footer-->
 
-        <footer class="text-dark">
+    <footer class="text-dark">
 
-            <div class="text-center pt-3"  padding: 20px;" >
-                <p>
-                    Criado por: Charles Dantas
-                </p>
-            </div>
+        <div class="text-center pt-3"  padding: 20px;" >
+            <p class="text-light pt-3">
+                Criado por: Charles Dantas
+            </p>
+        </div>
 
-            <div class="container-fluid">
+        <div class="container-fluid">
 
-            <div class="row">
+        <div class="row">
 
-            <div class="col-4">
+        <div class="col-4">
 
-                <ul class="nav flex-column">
-                <li class="nav-link">
-                    <a href="#home">
-                    Home
-                    </a>
+            <ul class="nav flex-column">
+            <li class="nav-link">
+                <a href="#home" class="text-light">
+                Home
+                </a>
+            </li>
+            <li class="nav-link">
+                <a href="public/about.php" class="text-light">
+                    Sobre
+                </a>
+            </li>
+            <li class="nav-link">
+                <a href="public/Prevention.php" class="text-light">
+                Prevenção
+                </a>
+            </li>   
+            <li class="nav-link">
+                <a href="public/Causes.php" class="text-light">
+                Causas
+                </a>
+            </li>
+            <li class="nav-link">
+                <a href="public/Types.php" class="text-light">
+                Tipos
+                </a>
+            </li> 
+            <li class="nav-link">
+                <a href="public/Treatment" class="text-light">
+                Tratamento
+                </a>
+            </li>        
+
+        </ul>
+        </div>
+        <div class="col-8">
+            <ul class="nav">
+            <li class="nav-link" >
+                <i class="fab fa-facebook fa-3x  mt-3 ml-5 text-light"></i>
                 </li>
-                <li class="nav-link">
-                    <a href="public/about.html">
-                        Sobre
-                    </a>
+            <li class="nav-link">
+                <i class="fab fa-instagram fa-3x mt-3 ml-5 text-light"></i>
                 </li>
-                <li class="nav-link">
-                    <a href="#">
-                    Menu2
-                    </a>
-                </li>   
-                <li class="nav-link">
-                    <a href="#">
-                    Menu3
-                    </a>
+            <li class="nav-link">
+                <i class="fab fa-twitter fa-3x mt-3 ml-5 text-light"></i>
                 </li>
-                <li class="nav-link">
-                    <a href="#">
-                    Menu4
-                    </a>
-                </li> 
-                <li class="nav-link">
-                    <a href="#">
-                    Menu5
-                    </a>
-                </li>        
-            
             </ul>
-            </div>
-            <div class="col-8">
-                <ul class="nav">
-                <li class="nav-link" >
-                    <i class="fab fa-facebook fa-3x  mt-3 ml-5"></i>
-                    </li>
-                <li class="nav-link">
-                    <i class="fab fa-instagram fa-3x mt-3 ml-5"></i>
-                    </li>
-                <li class="nav-link">
-                    <i class="fab fa-twitter fa-3x mt-3 ml-5"></i>
-                    </li>
-                </ul>
-            </div>
-            </div>
-            </div>
+        </div>
+        </div>
+        </div>
 
-        </footer>
+    </footer>
 
     <!--End Footer-->
       
